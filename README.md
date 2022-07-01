@@ -1,2 +1,2 @@
 #hospital management system
-Hey there this is Abhishek good to see you if you're here, so this is going to be completely free and open /public repository hope you will like my project.
+A simple school level project
