@@ -5,7 +5,7 @@ A simple school level project, Developed with PYTHON
 integrated with MYSQL database management system 
 
 
-## Acknowledgements
+## Files
 
  - [main.py](https://github.com/coder-abhi07/hospital-management-system/blob/main/hospital%20management%20system/hospital%20management%20main.py)
  - [main_functions.py](https://github.com/coder-abhi07/hospital-management-system/blob/main/hospital%20management%20system/main_functions.py)
