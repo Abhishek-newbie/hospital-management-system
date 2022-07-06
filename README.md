@@ -59,7 +59,56 @@ HOW TO RUN THE PROJECT
 * Delete old versions of python if any issue happens
 
 * There are some minor bugs there they will soon sorted out 
-* You can even change or add the database creation if not exists in connection function in main_function module  
+* You can even change or add the database creation if not exists in connection function in main_functions module 
+* keep both the main_funtions & hospital management main.py in the same directory
+
+
+## Screenshots
+
+![App Screenshot 1](https://drive.google.com/uc?id=12KckuyOgSBHzNuiTjwC-xcyUx3tlwZdP
+)
+![App Screenshot 2](https://drive.google.com/uc?id=1Kpba2245WfGz3shsOSHtd1bCvqryQMRC
+)
+
+![App Screenshot 3](https://drive.google.com/uc?id=1B0BKQKyuUgKPuLF5T6xRMAWpRBWxSTz7
+)
+
+
+![App Screenshot 4](https://drive.google.com/uc?id=1fS1X1HVp8KsiMIzc1TN2CwAs9BWMe9Rm
+)
+![App Screenshot 5](https://drive.google.com/uc?id=1l4y-K-9UY1pmG1vLFhoMR7aBM69YNW_x
+)
+
+![App Screenshot 6](https://drive.google.com/uc?id=1aVjGcv6pwN_7sOqZnPkqazbMG1YSkTlV
+)
+
+
+![App Screenshot 7](https://drive.google.com/uc?id=1GlqRGZBuV7-xxIkD0sAgJidMhdRoux-x
+)
+
+![App Screenshot 8](https://drive.google.com/uc?id=14en8jW2qS9-FydGl9jP0aRfNbJi17ckc
+)
+
+![App Screenshot 9](https://drive.google.com/uc?id=1pKIZJfgEMkpuwkRhFTr60tSWYXG9wuf8
+)
+
+![App Screenshot 10](https://drive.google.com/uc?id=1XZJZ89DT6WJithAa49dvPh4q2RuMsIU1
+)
+
+![App Screenshot 11](https://drive.google.com/uc?id=16NP5rX4CaXV1TOygJK6_neznNT-vq5qC
+)
+
+![App Screenshot 12](https://drive.google.com/uc?id=19zyeqYuA_7SPbd_dywlx5NOHEJodb2k5
+)
+
+![App Screenshot 13](https://drive.google.com/uc?id=1CO21akl7NT3385Drs2uzajSgZwiayNPs
+)
+
+![App Screenshot 14](https://drive.google.com/uc?id=1gdNpIP5jZvNc5sYwDiHF1rBRHQL7jqtS
+)
+
+
+
 
 ## license
 
