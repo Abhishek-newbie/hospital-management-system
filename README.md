@@ -63,6 +63,11 @@ HOW TO RUN THE PROJECT
 * keep both the main_funtions & hospital management main.py in the same directory
 
 
+## Video
+
+https://user-images.githubusercontent.com/68725300/178411614-ebdf0141-8ba2-4f7d-957d-1e60fc88d22a.mp4
+
+
 ## Screenshots
 
 ![App Screenshot 1](https://drive.google.com/uc?id=12KckuyOgSBHzNuiTjwC-xcyUx3tlwZdP)
