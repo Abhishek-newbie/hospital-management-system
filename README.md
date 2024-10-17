@@ -32,7 +32,7 @@ HOW TO RUN THE PROJECT
     ``` 
 
 
-*  *Install **tabulate module** using It is used to display structured date like data shown in mysql*
+*  *Install **tabulate module** It is used to display structured date same as data shown in mysql*
 
     ```
     pip install tabulate
@@ -40,7 +40,7 @@ HOW TO RUN THE PROJECT
     ``` 
     
     
-* Run the followings commands in mysql you will also be given mysql file
+* Run the followings commands in mysql command line interface , You will also be given a mysql file
 ```
   create database if not exists hospital;
 
@@ -55,12 +55,13 @@ HOW TO RUN THE PROJECT
 
 ## Tips & Issues
 
-* If pip is not working just go for online solution **(try to run the cmd in administor mode or add pip to the environment vairables)**
+* If pip is not working just go for online solutions **(try to run the cmd in administor mode or add pip to the environment vairables)**
+* While installing python make sure to check the "add to path" check box 
 * Delete old versions of python if any issue happens
 
-* There are some minor bugs there they will soon sorted out 
-* You can even change or add the database creation if not exists in connection function in main_functions module 
-* keep both the main_funtions & hospital management main.py in the same directory
+* There are some minor bugs they will soon sorted out 
+* You can even change or add the database creation or add command like "if not exists" in connection function in main_functions module 
+* keep both the main_funtions & main.py in the same directory
 
 
 ## Video
